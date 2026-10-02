@@ -1,0 +1,20 @@
+# Java / Maven
+backend/target/
+target/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+node_modules/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Misc
+*.log
+.DS_Store
